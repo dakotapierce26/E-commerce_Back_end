@@ -14,7 +14,7 @@
     "url": "https://github.com/dakotapierce26/fantastic-umbrella.git"
   },
   "keywords": [],
-  "author": "Dakota Pierce",
+  "author": "Dakota Pierce, Ashton Pierce",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
