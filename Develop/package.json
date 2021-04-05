@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/dakotapierce26/fantastic-umbrella.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dakota Pierce",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
